@@ -26,7 +26,7 @@ Tem como objetivo:
 
 Windows: 
 
-         ipconfig /release -> liberta o ip que tem 
+          ipconfig /release -> liberta o ip que tem 
         
          ipconfig /renew -> pede um ip novo ao servidor dhcp
 
